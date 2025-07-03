@@ -8,7 +8,7 @@
 
 <h3 align="left">Connect with me:</h3>
 
-🌐 [Visit my Portfolio](https://conrad-tinio.github.io/Portfolio/) <br>
+🌐 [Visit my Portfolio (in development)] <br>
 🗣️ [View my LinkedIn!](www.linkedin.com/in/louis-conrad-andrei-tinio) <br>
 
 
